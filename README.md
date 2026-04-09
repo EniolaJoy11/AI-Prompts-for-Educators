@@ -158,7 +158,7 @@ Paste lesson plan here:
 | Students needing extra support |           |
 | Next steps                     |           |
 
-### 📝 Worksheet Creation Prompts
+### Worksheet Creation Prompts
 
 ### Prompt 4 — Create Practice Questions
 
@@ -374,6 +374,7 @@ Generate **3 positive report comments** for a student who:
 * Shows improvement
 
 **Template**
+
 [Student’s Name] consistently participates actively in class discussions and shows great enthusiasm for learning. They complete their homework on time and demonstrate a strong sense of responsibility. It is pleasing to see clear improvement in their understanding and confidence.
 
 [Student’s Name] is a hardworking and engaged learner who contributes positively during lessons. They regularly complete homework to a good standard and are showing steady improvement across key areas of learning. Keep up the excellent effort.
