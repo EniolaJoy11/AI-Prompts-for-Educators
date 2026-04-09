@@ -312,10 +312,57 @@ Areas for improvement:
 
 Next steps:
 
+### Template: 
+
+**Student Progress Feedback**
+
+Subject: Student Progress Update
+
+Dear Parent/Guardian,
+
+I am pleased to share an update on [Student’s Name]’s progress in class.
+
+**Strengths:**
+[Student’s Name] has shown good effort in class and participates actively during lessons. They demonstrate a positive attitude towards learning and complete most tasks with increasing confidence.
+
+**Areas for Improvement:**
+We are currently working on improving [specific skill — e.g., reading fluency, spelling accuracy, number operations]. Continued practice in this area will help strengthen their understanding and boost confidence.
+
+**Next Steps:**
+To support progress at home, I recommend encouraging [Student’s Name] to practice [specific activity — e.g., reading daily, revising spelling words, completing homework regularly].
+
+Thank you for your continued support. Please feel free to reach out if you have any questions or would like to discuss your child’s progress further.
+
+Kind regards,
+
+[Your Name]
+[Your Role / Teacher / Tutor]
+
 
 ### Prompt 10 — Write Homework Reminder
 
 Write a polite reminder message to parents about incomplete homework.
+
+**Template**
+
+Dear Parent/Guardian,
+
+I hope you are well.
+
+This is a kind reminder that [Student’s Name] has not yet completed their assigned homework on [subject/topic].
+
+Homework is an important part of reinforcing what we learn in class, and completing it regularly will help improve understanding and confidence.
+
+Kindly ensure that [Student’s Name] completes the outstanding task and submits it as soon as possible.
+
+Thank you for your continued support and cooperation.
+
+Warm regards,
+
+
+[Your Name]
+[Your Role]
+
 
 
 ### Prompt 11 — Write Student Report Comments
@@ -326,6 +373,13 @@ Generate **3 positive report comments** for a student who:
 * Completes homework
 * Shows improvement
 
+**Template**
+[Student’s Name] consistently participates actively in class discussions and shows great enthusiasm for learning. They complete their homework on time and demonstrate a strong sense of responsibility. It is pleasing to see clear improvement in their understanding and confidence.
+
+[Student’s Name] is a hardworking and engaged learner who contributes positively during lessons. They regularly complete homework to a good standard and are showing steady improvement across key areas of learning. Keep up the excellent effort.
+
+[Student’s Name] actively engages in class activities and demonstrates a positive attitude towards learning. They complete assigned tasks and homework consistently, and their progress over time has been very encouraging. Well done on your continued improvement.
+
 
 ### Prompt 12 — Constructive Feedback
 
@@ -333,10 +387,103 @@ Write constructive feedback for a student struggling with:
 
 Include encouragement and improvement strategies.
 
+**Template**
+
+Dear Parent/Guardian,
+
+I hope you are well.
+
+I would like to share an update on [Student’s Name]’s progress in [subject/topic].
+
+At the moment, [Student’s Name] is finding some aspects of the work challenging, particularly in [specific area – e.g., reading comprehension, multiplication, spelling, writing structure]. However, they continue to show willingness to learn and respond positively to support in class.
+
+*Encouragement*
+I want to commend [Student’s Name] for their effort and positive attitude. With consistent practice and guidance, I am confident they will make steady improvement.
+
+*Areas for Improvement*
+Strengthening understanding of [specific skill]
+Practicing key concepts regularly
+Building confidence when completing independent tasks
+
+*How to Support at Home*
+Encourage daily practice of [skill] (e.g., reading, times tables, spelling words)
+Review class notes and homework together
+Use simple revision activities such as quizzes or flashcards
+
+*Provide encouragement to build confidence*
+With continued support at home and in school, I believe [Student’s Name] will gradually improve and achieve greater confidence in [subject].
+
+Thank you for your partnership and support.
+
+Kind regards,
+
+
+[Your Name]
+[Your Role]
 
 ### Prompt 13 — Create Classroom Rules
 
 Generate **5 clear classroom rules** suitable for **[Year Group]** students.
+
+**Template**
+
+---
+
+### 📘 Classroom Rules
+
+### **Simple Classroom Rules**
+
+| **No.** | **Rule**                                 | **What This Means**                                               |
+| ------- | ---------------------------------------- | ----------------------------------------------------------------- |
+| 1       | **Listen when others are speaking**      | Pay attention to the teacher and classmates without interrupting. |
+| 2       | **Raise your hand to speak**             | Wait for permission before talking.                               |
+| 3       | **Follow instructions carefully**        | Do what the teacher asks the first time.                          |
+| 4       | **Be kind and respectful**               | Use polite words and treat others nicely.                         |
+| 5       | **Keep your hands and feet to yourself** | Respect personal space.                                           |
+| 6       | **Stay on task**                         | Focus on your work and avoid distractions.                        |
+| 7       | **Take care of classroom materials**     | Handle books and supplies carefully.                              |
+| 8       | **Keep the classroom clean**             | Pick up after yourself and keep your area tidy.                   |
+| 9       | **Try your best**                        | Always put effort into your work.                                 |
+| 10      | **Be ready to learn**                    | Bring materials and come prepared.                                |
+
+---
+
+### Classroom Rules for Younger Students (Reception–Year 2)
+
+| **No.** | **Rule**           | **Child-Friendly Meaning**      |
+| ------- | ------------------ | ------------------------------- |
+| 1       | **Kind hands**     | Use your hands gently.          |
+| 2       | **Listening ears** | Listen when someone is talking. |
+| 3       | **Quiet voices**   | Use indoor voices.              |
+| 4       | **Helping hands**  | Help others when needed.        |
+| 5       | **Walking feet**   | Walk, don’t run, in class.      |
+
+---
+
+### 💻 Online Classroom Rules (Very Useful for Tutors)
+
+| **No.** | **Rule**                              | **What This Means**                |
+| ------- | ------------------------------------- | ---------------------------------- |
+| 1       | **Join class on time**                | Log in before the lesson starts.   |
+| 2       | **Mute microphone when not speaking** | Reduce background noise.           |
+| 3       | **Keep camera on (if possible)**      | Stay engaged in the lesson.        |
+| 4       | **Raise hand before speaking**        | Wait your turn to talk.            |
+| 5       | **Stay focused on the lesson**        | Avoid games or distractions.       |
+| 6       | **Have materials ready**              | Bring books, pencil, and notebook. |
+| 7       | **Be respectful online**              | Use polite language.               |
+
+---
+
+### 🎯 Bonus: Editable Blank Classroom Rules Template
+
+| **No.** | **Classroom Rule** | **What This Means** |
+| ------- | ------------------ | ------------------- |
+| 1       |                    |                     |
+| 2       |                    |                     |
+| 3       |                    |                     |
+| 4       |                    |                     |
+| 5       |                    |                     |
+
 
 
 ### Prompt 14 — Behaviour Reflection Task
