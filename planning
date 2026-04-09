@@ -1,0 +1,154 @@
+AI Prompts for Educators
+
+This contains a growing collection of AI prompts designed to support educators in lesson planning, assessment creation, student feedback, and classroom management.
+These prompts are created to save time, improve productivity, and enhance teaching efficiency using AI tools.
+
+Educators spend many hours planning lessons, writing reports, and creating resources. 
+This project provides ready-to-use prompts that make these tasks faster and easier.
+
+Lesson Planning Prompts
+Prompt 1 — Generate a Lesson Plan
+
+Create a detailed lesson plan for [Subject] for [Year Group] students.
+Include:
+
+Learning objectives
+Materials needed
+Starter activity
+Main activity
+Guided practice
+Independent task
+Assessment
+Plenary
+
+Prompt 2 — Create Weekly Lesson Plans
+
+Generate a 5-day weekly lesson plan for [Subject] for [Year Group] students.
+Ensure lessons build progressively throughout the week.
+
+# Lesson Plan Template (Table Format)
+
+| **Section**            | **Details** |
+| ---------------------- | ----------- |
+| **Subject**            |             |
+| **Topic**              |             |
+| **Year Group/Class**   |             |
+| **Date**               |             |
+| **Duration**           |             |
+| **Number of Students** |             |
+
+---
+
+# **Learning Objectives**
+
+| **Learning Objectives**                               |
+| ----------------------------------------------------- |
+| By the end of the lesson, students should be able to: |
+| 1.                                                    |
+| 2.                                                    |
+| 3.                                                    |
+
+---
+
+# **Success Criteria**
+
+| **Success Criteria**                     |
+| ---------------------------------------- |
+| Students will be successful if they can: |
+| •                                        |
+| •                                        |
+| •                                        |
+
+---
+
+# **Key Vocabulary**
+
+| **Key Vocabulary** |
+| ------------------ |
+| •                  |
+| •                  |
+| •                  |
+| •                  |
+
+---
+
+# **Materials / Resources**
+
+| **Materials / Resources Needed** |
+| -------------------------------- |
+| •                                |
+| •                                |
+| •                                |
+| •                                |
+
+---
+
+# **Lesson Structure**
+
+| **Lesson Stage**                 | **Teacher Activities** | **Student Activities** |
+| -------------------------------- | ---------------------- | ---------------------- |
+| **Starter Activity (5–10 mins)** |                        |                        |
+| **Introduction (Teacher Input)** |                        |                        |
+| **Guided Practice**              |                        |                        |
+| **Independent Practice**         |                        |                        |
+| **Assessment**                   |                        |                        |
+| **Plenary (Lesson Closure)**     |                        |                        |
+
+---
+
+# **Differentiation**
+
+| **Type**                          | **Details** |
+| --------------------------------- | ----------- |
+| **Support (Struggling Learners)** |             |
+| **Extension (Advanced Learners)** |             |
+
+---
+
+# **Assessment**
+
+| **Assessment Method** | **Details** |
+| --------------------- | ----------- |
+| Observation           |             |
+| Questioning           |             |
+| Worksheet             |             |
+| Quiz                  |             |
+| Exit Ticket           |             |
+
+
+# **Classroom Management**
+
+| **Classroom Management Strategies** |
+| ----------------------------------- |
+| •                                   |
+| •                                   |
+| •                                   |
+
+
+
+# **Homework**
+
+| **Homework Task** | **Due Date** |
+| ----------------- | ------------ |
+|                   |              |
+
+
+
+# **Teacher Reflection (After Lesson)**
+
+| **Reflection Questions**       | **Notes** |
+| ------------------------------ | --------- |
+| What went well?                |           |
+| What could be improved?        |           |
+| Students needing extra support |           |
+| Next steps                     |           |
+
+
+
+Prompt 3 — Differentiate a Lesson
+
+Modify this lesson plan to include:
+
+Support for struggling learners
+Extension tasks for advanced learners
+Visual learning supports
